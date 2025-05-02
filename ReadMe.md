@@ -1,5 +1,5 @@
 <h1> LLama Chat App </h1>
-<p> This chat app is constructed with React (via Creat-React-App framework) on the front-end and ASP.NET Core 9 on backend.\n
+<p> This chat app is constructed with React (via Creat-React-App framework) on the front-end and ASP.NET Core 9 on backend.
     This app lets user to chat with Ollama built AI chatbots via an graphical interface.</p>
 
 <h2> Requirements and Instructions </h2>
@@ -23,5 +23,9 @@
 
 <h3> Important About Ports</h3>
 
-<p> Ollama usually uses a default port: 127.0.0.1:11434 if on ollama serve port is diffrent change port on backend files. \n
+<p> Ollama usually uses a default port: 127.0.0.1:11434 if on ollama serve port is diffrent change port on backend files. <br>
     If backend server runs in a diffrent port than http://localhost:5283 change it on frontend files  </p>
+
+<h3> Screenshot of Webpage </h3>
+![image](https://github.com/user-attachments/assets/09460d9d-0b66-4c6c-89c8-c0682386ad5b)
+
