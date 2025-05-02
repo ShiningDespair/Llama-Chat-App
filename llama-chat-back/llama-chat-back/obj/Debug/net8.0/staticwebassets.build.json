@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "T25odDy9GxlL278znQL6Qihn9L3Ovs+BzKNGrAdBElI=",
+  "Source": "llama-chat-back",
+  "BasePath": "_content/llama-chat-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

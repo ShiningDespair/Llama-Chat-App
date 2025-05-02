@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\charachteraitest\\llama-chat-app\\llama-chat-back\\llama-chat-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|solutionrelative:llama-chat-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\charachteraitest\\llama-chat-app\\llama-chat-back\\llama-chat-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|solutionrelative:llama-chat-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\charachteraitest\\llama-chat-app\\llama-chat-back\\llama-chat-back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|solutionrelative:llama-chat-back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\charachteraitest\\llama-chat-app\\llama-chat-back\\llama-chat-back\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|solutionrelative:llama-chat-back\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\charachteraitest\\llama-chat-app\\llama-chat-back\\llama-chat-back\\models\\ollamaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|solutionrelative:llama-chat-back\\models\\ollamaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|c:\\users\\mehme\\onedrive\\masa\u00FCst\u00FC\\charachteraitest\\llama-chat-app\\llama-chat-back\\llama-chat-back\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B504C25-DCD9-4173-A775-4023546F3A9A}|llama-chat-back\\llama-chat-back.csproj|solutionrelative:llama-chat-back\\models\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:llama-chat-back\\Controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "llama-chat-back\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Properties\\launchSettings.json",
+              "RelativeToolTip": "llama-chat-back\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T13:14:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\appsettings.json",
+              "RelativeDocumentMoniker": "llama-chat-back\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\appsettings.json",
+              "RelativeToolTip": "llama-chat-back\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T13:14:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Controllers\\test.cs",
+              "RelativeDocumentMoniker": "llama-chat-back\\Controllers\\test.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Controllers\\test.cs",
+              "RelativeToolTip": "llama-chat-back\\Controllers\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:49:47.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "llama-chat-back\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "llama-chat-back\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:15:12.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OllamaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Models\\OllamaResponse.cs",
+              "RelativeDocumentMoniker": "llama-chat-back\\Models\\OllamaResponse.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Models\\OllamaResponse.cs",
+              "RelativeToolTip": "llama-chat-back\\Models\\OllamaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:11:39.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Models\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "llama-chat-back\\Models\\ChatRequest.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Models\\ChatRequest.cs",
+              "RelativeToolTip": "llama-chat-back\\Models\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:11:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Program.cs",
+              "RelativeDocumentMoniker": "llama-chat-back\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\CharachterAITest\\Llama-Chat-App\\llama-chat-back\\llama-chat-back\\Program.cs",
+              "RelativeToolTip": "llama-chat-back\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:55:57.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

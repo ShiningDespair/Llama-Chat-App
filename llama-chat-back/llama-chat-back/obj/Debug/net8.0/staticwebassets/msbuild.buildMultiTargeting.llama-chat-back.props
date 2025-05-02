@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\llama-chat-back.props" />
+</Project>

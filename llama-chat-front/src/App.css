@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #172A3B;
+  color: white;
+  
+}
+.App{
+  height: 100vh;
+}
+.App-header {
+  padding: 1rem;
+  background-color: #172A3B;
+  text-align: center;
+  border-bottom: 1px solid #333;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Chat-Container {
+  display: flex;
+  flex-direction: column;
+  height: calc(80vh);
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.Chat-Messages {
+  flex: 1;
+  width: 100%;
+  overflow-y: auto;
+  padding-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.Chat-Message {
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  width: 80%;                
+  word-wrap: break-word;     
+  white-space: pre-wrap;     
+  line-height: 1.4;
+}
+
+.Chat-Image {
+  max-width: 200px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.Chat-Message.user {
+  background-color: #3b3b3b;
+  align-self: flex-end;
+}
+
+.Chat-Message.bot {
+  background-color: #252525;
+  align-self: flex-start;
+}
+
+
+.Chat-Input {
+  display: flex;
+  gap: 0.5rem;
+  background-color: #1f1f1f;
+  padding: 1rem;
+  border-top: 1px solid #333;
+  width: 80%;  
+}
+
+.chat-textarea {
+  flex: 1;
+  background: #2c2c2c;
+  border: none;
+  padding: 0.75rem;
+  color: white;
+  border-radius: 0.5rem;
+  resize: none;
+  font-size: 1rem;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  padding: 0.75rem 1.25rem;
+  color: white;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 1rem;
+}
